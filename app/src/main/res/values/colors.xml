@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="ash">#D1D0D0</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="textColor">#333333</color>
+    <color name="light_blue">#8ED1FC</color>
+    <color name="blue">#4c51c6</color>
+    <color name="night_blue">#0480CF</color>
+
+    <color name="background_color">#2196F3</color>
+    <color name="btn_clicked_color">#D125EF</color>
+    <color name="transparent_color">#27B8BFD1</color>
+    <color name="disabled_color">#5C0048FF</color>
+
+    <color name="progress_bar_bg_color">#46002585</color>
+
+    <color name="progress_bar_background">#CCCCCC</color>
+    <color name="won_color">#4CAF50</color>
+    <color name="draw_color">#FFC107</color>
+    <color name="lose_color">#F44336</color>
+</resources>

@@ -1,0 +1,36 @@
+<!-- res/drawable/custom_progress_bar.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/progress_bar_bg_color" />
+        </shape>
+    </item>
+
+    <!-- Lose percentage -->
+    <item android:id="@android:id/background">
+        <clip>
+            <shape android:shape="rectangle">
+                <solid android:color="@color/lose_color" />
+            </shape>
+        </clip>
+    </item>
+
+    <!-- Draw percentage -->
+    <item android:id="@android:id/secondaryProgress">
+        <clip>
+            <shape android:shape="rectangle">
+                <solid android:color="@color/draw_color" />
+            </shape>
+        </clip>
+    </item>
+
+    <!-- Won percentage -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape android:shape="rectangle">
+                <solid android:color="@color/won_color" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>

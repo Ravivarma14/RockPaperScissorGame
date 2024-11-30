@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rock Scissor Paper</string>
+    <string name="rules">
+        <b>Rules:</b>\n
+        \n Choose a Move:
+        \n Rock, Paper, Scissors.
+        \n The Computer will also pick a move and then we will compare and find the winner!
+
+        \n Rock beats Scissors
+        \n Scissors beats Paper
+        \n Paper beats Rock
+    </string>
+</resources>

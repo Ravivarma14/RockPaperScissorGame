@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "626384529065",
+    "project_id": "rock-scissor-paper-1407",
+    "storage_bucket": "rock-scissor-paper-1407.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626384529065:android:8a7f105d5606362ce16bb8",
+        "android_client_info": {
+          "package_name": "com.example.rockscissorpaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVMz9mEWT8hPIEU84aejSm4twUJiR-fyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626384529065:android:ac21ad81df4dc1d1e16bb8",
+        "android_client_info": {
+          "package_name": "com.example.rockscissorpapergame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVMz9mEWT8hPIEU84aejSm4twUJiR-fyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
